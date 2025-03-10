@@ -31,7 +31,26 @@ Skills:
       <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostGres" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="55"/>
 </p>
+<!-- 
+![Bharath's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrek15&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrek15&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### 📊 GitHub Stats
+
+![Sai Bharath Reddy Kanala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
+
+### 🚀 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical) -->
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical)
+
+### 📅 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrek15&theme=radical)
+
+### ⏳ Coding Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=sabrek15&theme=radical)
 
