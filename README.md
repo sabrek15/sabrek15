@@ -32,6 +32,6 @@ Skills:
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="55"/>
 </p>
 
-![Maahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrek15&theme=monokai&show_icons=true)
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrek15&theme=monokai&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
