@@ -13,7 +13,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/"><img align="left" src="https://raw.githubusercontent.com/sabrek15/sabrek15/main/linkedin.svg" alt="Maahi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/"><img align="left" src="https://raw.githubusercontent.com/sabrek15/sabrek15/main/linkedin.svg" alt="sabrek | LinkedIn" width="21px"/></a>
 </br>
 </br>
 
