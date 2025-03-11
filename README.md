@@ -51,6 +51,8 @@ Skills:
 ### 📅 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrek15&theme=radical)
 
+<!--
 ### ⏳ Coding Activity
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sabrek15&theme=radical)
+-->
 
