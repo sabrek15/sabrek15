@@ -21,6 +21,7 @@ Skills:
 
 <p align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="CPP" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
