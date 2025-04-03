@@ -1,15 +1,24 @@
-### Hi there 👋, My name is Sai Bharath Reddy Kanala
-#### Aspiring Back-End Developer and Problem solving Enthusiast
-![Aspiring Back-end Developer and Enthusiast](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sabrek15/count.svg" />
-</p>
-👋 Hello! I'm <b>Sai Bharath Reddy Kanala</b>, a passionate Software Developer with a strong foundation in Electronics and Communication Engineering (ECE) and a deep interest in backend development and problem-solving.
-</br>
-📚 Education: Pursuing a BTech in ECE at IIITDM Kurnool.
-</br>
-💡 My journey in technology has allowed me to work on Spring Boot microservices, IoT-based systems, and backend development, equipping me with a diverse skill set. I'm always eager to explore new technologies, build efficient systems, and contribute meaningfully to any team or project.
+### Hi there 👋, My name is Sai Bharath Reddy Kanala  
+#### Aspiring Back-End Developer and Problem solving Enthusiast | Golang | Java | Spring Boot  
+![Passionate Back-End Developer](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)  
+
+<p align="center">  
+  Visitor count<br>  
+  <img src="https://profile-counter.glitch.me/sabrek15/count.svg" />  
+</p>  
+
+👋 Hello! I'm **Sai Bharath Reddy Kanala**, aspiring backend developer with expertise in **Golang, Java, and Spring Boot**, driven by a strong problem-solving mindset.  
+</br>  
+
+📚 **Education:** Pursuing a **BTech in Electronics and Communication Engineering (ECE) at IIITDM Kurnool**. Although my degree provided a strong technical foundation, I developed my backend skills independently through hands-on projects and continuous learning.  
+</br>  
+
+💡 **My Journey:**  
+My passion for backend development led me to explore **microservices architecture, IoT-based systems, and scalable backend solutions** on my own. Through self-learning and practical experience, I have built efficient, high-performance systems while continuously refining my skills.  
+</br>  
+
+🔍 **Always Learning & Innovating:**  
+I am eager to explore new technologies, enhance my backend expertise, and contribute meaningfully to impactful projects and teams. With a strong drive for self-improvement, I stay ahead in the ever-evolving world of software development.  
 
 ### 🤝 Connect with me:
 
