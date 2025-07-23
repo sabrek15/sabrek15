@@ -1,11 +1,10 @@
 ### Hi there 👋, My name is Sai Bharath Reddy Kanala  
+
+![](https://komarev.com/ghpvc/?username=sabrek15&abbreviated=true)
+
 #### Aspiring Back-End Developer and Problem solving Enthusiast | Golang | Java | Spring Boot  
 ![Passionate Back-End Developer](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)  
 
-<p align="center">  
-  Visitor count<br>  
-  <img src="https://profile-counter.glitch.me/sabrek15/count.svg" />  
-</p>  
 
 👋 Hello! I'm **Sai Bharath Reddy Kanala**, aspiring backend developer with expertise in **Golang, Java, and Spring Boot**, driven by a strong problem-solving mindset.  
 </br>  
@@ -58,8 +57,10 @@ Skills:
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical)
 
+<!--
 ### 📅 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrek15&theme=radical)
+-->
 
 <!--
 ### ⏳ Coding Activity
