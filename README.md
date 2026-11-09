@@ -9,19 +9,19 @@
 👋 Hello! I'm **Sai Bharath Reddy Kanala**, aspiring backend developer with expertise in **Golang, Java, and Spring Boot**, driven by a strong problem-solving mindset.  
 </br>  
 
-📚 **Education:** Pursuing a **BTech in Electronics and Communication Engineering (ECE) at IIITDM Kurnool**. Although my degree provided a strong technical foundation, I developed my backend skills independently through hands-on projects and continuous learning.  
+📚 **Education:** Pursuing a **BTech in Electronics and Communication Engineering (ECE) at IIITDM Kurnool**. Although my degree provided a strong technical foundation, I developed my backend skills [...]
 </br>  
 
 💡 **My Journey:**  
-My passion for backend development led me to explore **microservices architecture, IoT-based systems, and scalable backend solutions** on my own. Through self-learning and practical experience, I have built efficient, high-performance systems while continuously refining my skills.  
+My passion for backend development led me to explore **microservices architecture, IoT-based systems, and scalable backend solutions** on my own. Through self-learning and practical experience, I have[...]
 </br>  
 
 🔍 **Always Learning & Innovating:**  
-I am eager to explore new technologies, enhance my backend expertise, and contribute meaningfully to impactful projects and teams. With a strong drive for self-improvement, I stay ahead in the ever-evolving world of software development.  
+I am eager to explore new technologies, enhance my backend expertise, and contribute meaningfully to impactful projects and teams. With a strong drive for self-improvement, I stay ahead in the ever-ev[...]
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/"><img align="left" src="https://raw.githubusercontent.com/sabrek15/sabrek15/main/linkedin.svg" alt="sabrek | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/"><img align="left" src="https://raw.githubusercontent.com/sabrek15/sabrek15/main/linkedin.svg" alt="sabrek | LinkedIn" width="2[...]
 </br>
 </br>
 
@@ -42,7 +42,7 @@ Skills:
 </p>
 <!-- 
 ![Bharath's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrek15&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-[...]
 
 <!-- ### 📊 GitHub Stats
 
@@ -53,9 +53,9 @@ Skills:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical) -->
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical)
 
 <!--
 ### 📅 Contribution Graph
@@ -66,4 +66,5 @@ Skills:
 ### ⏳ Coding Activity
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sabrek15&theme=radical)
 -->
+
 
