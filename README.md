@@ -1,70 +1,41 @@
-### Hi there 👋, My name is Sai Bharath Reddy Kanala  
+# Hi there, I'm Sai Bharath Reddy Kanala 👋
 
-![](https://komarev.com/ghpvc/?username=sabrek15&abbreviated=true)
+**Software Engineer | Backend & Data Systems**  
+Java • Spring Boot • Golang • PostgreSQL • PySpark
 
-#### Aspiring Back-End Developer and Problem solving Enthusiast | Golang | Java | Spring Boot  
-![Passionate Back-End Developer](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saibharathreddykanala@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sabrek15&color=007ec6&style=flat-square&label=Profile+Views)
 
-👋 Hello! I'm **Sai Bharath Reddy Kanala**, aspiring backend developer with expertise in **Golang, Java, and Spring Boot**, driven by a strong problem-solving mindset.  
-</br>  
+---
 
-📚 **Education:** Pursuing a **BTech in Electronics and Communication Engineering (ECE) at IIITDM Kurnool**. Although my degree provided a strong technical foundation, I developed my backend skills [...]
-</br>  
+## 👨‍💻 About Me
 
-💡 **My Journey:**  
-My passion for backend development led me to explore **microservices architecture, IoT-based systems, and scalable backend solutions** on my own. Through self-learning and practical experience, I have[...]
-</br>  
+- **Current Role:** Software Engineer at **Infosys** (1 YOE) working with data processing, backend logic, and relational database systems.
+- **Education:** B.Tech from **Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kurnool**.
+- **Core Focus:** Building reliable, high-throughput backend services using **Java, Spring Boot, Golang, and PostgreSQL**.
+- **Data & Backend:** Experienced with data pipelines using **SQL & PySpark**, actively applying distributed concepts to **event-driven microservices**.
 
-🔍 **Always Learning & Innovating:**  
-I am eager to explore new technologies, enhance my backend expertise, and contribute meaningfully to impactful projects and teams. With a strong drive for self-improvement, I stay ahead in the ever-ev[...]
+---
 
-### 🤝 Connect with me:
+## 🛠️ Tech Stack & Skills
 
-<a href="https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/"><img align="left" src="https://raw.githubusercontent.com/sabrek15/sabrek15/main/linkedin.svg" alt="sabrek | LinkedIn" width="2[...]
-</br>
-</br>
+### Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-Skills: 
+### Databases & Data Processing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-<p align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="CPP" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="55" height="55"/>
-      <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="SpringBoot" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostGres" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="55"/>
-</p>
-<!-- 
-![Bharath's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrek15&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-[...]
+### Architecture & Tools
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square) ![REST APIs](https://img.shields.io/badge/APIs-RESTful-blue?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<!-- ### 📊 GitHub Stats
+---
 
-![Sai Bharath Reddy Kanala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
+## 📊 GitHub Activity & Stats
 
-### 🚀 Most Used Languages
+![GitHub Streak](https://streak-stats.demolab.com?user=sabrek15&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical) -->
+---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrek15&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrek15&layout=compact&theme=radical)
-
-<!--
-### 📅 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabrek15&theme=radical)
--->
-
-<!--
-### ⏳ Coding Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=sabrek15&theme=radical)
--->
-
-
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-bharath-reddy-kanala-9a4298254/)
